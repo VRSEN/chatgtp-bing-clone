@@ -1,9 +1,10 @@
 from googleapiclient.discovery import build
 import openai
 import gradio as gr
+import os
 
 # https://platform.openai.com/account/api-keys
-openai.api_key = ""
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 
 class GoogleChat():
