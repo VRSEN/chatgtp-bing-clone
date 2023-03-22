@@ -1,6 +1,6 @@
 # ChatGPT Bing Clone
-Unleash the power of ChatGPT/GPT-4 by connecting it to internet.
-
+Unleash the power of ChatGPT/GPT-4 by connecting it to internet!
+[![IMAGE ALT TEXT HERE](thumbnail.png)](https://www.youtube.com/watch?v=u9k2djm1Nrw)
 
 [//]: # (![ChatGPT Customized Assistant]&#40;assets/chatgpt-customized-assistant-demo.gif&#41;)
 
